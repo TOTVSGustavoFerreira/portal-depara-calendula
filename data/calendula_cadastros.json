@@ -1,0 +1,1453 @@
+{
+  "ZDEPARA_COLIGADAS": [
+    {
+      "EMPRESA_DE": "1",
+      "ID": "1",
+      "NOME_DE": "CALENDULA FARMACIA DE MANIPULACAO LTDA",
+      "CNPJ": "13588190000151",
+      "CODCOLIGADA": "1"
+    },
+    {
+      "EMPRESA_DE": "2",
+      "ID": "1",
+      "NOME_DE": "CALENDULA FARMACIA DE MANIPULACAO LTDA",
+      "CNPJ": "13588190000232",
+      "CODCOLIGADA": "1"
+    },
+    {
+      "EMPRESA_DE": "3",
+      "ID": "1",
+      "NOME_DE": "CALENDULA FARMACIA DE MANIPULACAO LTDA",
+      "CNPJ": "13588190000313",
+      "CODCOLIGADA": "1"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "ID": "2",
+      "NOME_DE": "UP PRESTACAO DE SERVICOS LTDA",
+      "CNPJ": "44464607000106",
+      "CODCOLIGADA": "2"
+    },
+    {
+      "EMPRESA_DE": "5",
+      "ID": "3",
+      "NOME_DE": "BS SUPLEMENTOS LTDA",
+      "CNPJ": "55211479000105",
+      "CODCOLIGADA": "3"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "ID": "4",
+      "NOME_DE": "LEVEL PRESTADORA DE SERVICOS E COMERCIO",
+      "CNPJ": "59891167000132",
+      "CODCOLIGADA": "4"
+    }
+  ],
+  "ZDEPARA_FUNCOES": [
+    {
+      "EMPRESA_DE": "1",
+      "CODIGO_DE": "1",
+      "NOME_DE": "ADMINISTRADOR",
+      "CBO": "",
+      "CBO_2002": "252105",
+      "COLIGADA_PARA": "1",
+      "CODIGO_PARA": "000001"
+    },
+    {
+      "EMPRESA_DE": "1",
+      "CODIGO_DE": "5",
+      "NOME_DE": "ADMINISTRADOR",
+      "CBO": "",
+      "CBO_2002": "252105",
+      "COLIGADA_PARA": "1",
+      "CODIGO_PARA": "000001"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "91",
+      "NOME_DE": "ANALISTA ADMINISTRATIVO III",
+      "CBO": "",
+      "CBO_2002": "252105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000002"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "94",
+      "NOME_DE": "ANALISTA ADMINISTRATIVO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "252105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000003"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "94",
+      "NOME_DE": "ANALISTA ADMINISTRATIVO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "252105",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000003"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "96",
+      "NOME_DE": "ANALISTA ADMINISTRATIVO SENIOR",
+      "CBO": "",
+      "CBO_2002": "252105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000004"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "93",
+      "NOME_DE": "ANALISTA DE RH JUNIOR",
+      "CBO": "",
+      "CBO_2002": "252405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000005"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "93",
+      "NOME_DE": "ANALISTA DE RH JUNIOR",
+      "CBO": "",
+      "CBO_2002": "252405",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000005"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "106",
+      "NOME_DE": "ANALISTA DE SUCESSO DO CLIENTE SENIOR",
+      "CBO": "",
+      "CBO_2002": "142360",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000006"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "56",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO I",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000007"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "20",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO II",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000008"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "67",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO III",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000009"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "87",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO IV",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000010"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "87",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO IV",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000010"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "95",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000011"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "100",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO PLENO",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000012"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "90",
+      "NOME_DE": "ASSISTENTE ADMINISTRATIVO V",
+      "CBO": "",
+      "CBO_2002": "411010",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000013"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "103",
+      "NOME_DE": "ASSISTENTE CONFERENTE PLENO",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000014"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "109",
+      "NOME_DE": "ASSISTENTE CONFERENTE SENIOR",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000015"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "104",
+      "NOME_DE": "ASSISTENTE DE EXPEDICAO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000016"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "72",
+      "NOME_DE": "ASSISTENTE DE FARMACIA",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000017"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "86",
+      "NOME_DE": "ASSISTENTE DE FARMACIA II",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000018"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "101",
+      "NOME_DE": "ASSISTENTE DE MARKETING SENIOR",
+      "CBO": "",
+      "CBO_2002": "253115",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000019"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "102",
+      "NOME_DE": "ASSISTENTE DE VENDAS",
+      "CBO": "",
+      "CBO_2002": "354125",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000020"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "7",
+      "NOME_DE": "ATENDENTE",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000021"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "30",
+      "NOME_DE": "ATENDENTE DE PRESC MAG III",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000022"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "17",
+      "NOME_DE": "ATENDENTE DE PRESC MAG IV",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000023"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "70",
+      "NOME_DE": "ATENDENTE DE PRESC MAGISTRAL I",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000024"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "29",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000025"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "73",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL II",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000026"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "73",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL II",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000026"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "102",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL JUNIOR",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000027"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "29",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL JUNIOR",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000027"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "99",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL PLENO",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000028"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "107",
+      "NOME_DE": "ATENDENTE DE PRESCRIÇÃO MAGISTRAL PLENO",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000028"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "50",
+      "NOME_DE": "ATENDENTE III",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000029"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "4",
+      "NOME_DE": "AUX DE LABORATORIO",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000030"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "40",
+      "NOME_DE": "AUX DE LABORATORIO I",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000031"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "113",
+      "NOME_DE": "AUX DE LABORATÓRIO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000032"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "28",
+      "NOME_DE": "AUXILIAR ADMINISTRATIVO (A)",
+      "CBO": "",
+      "CBO_2002": "411005",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000033"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "69",
+      "NOME_DE": "AUXILIAR ADMINISTRATIVO - SAC",
+      "CBO": "",
+      "CBO_2002": "411005",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000034"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "27",
+      "NOME_DE": "AUXILIAR ADMINISTRATIVO I",
+      "CBO": "",
+      "CBO_2002": "411005",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000035"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "21",
+      "NOME_DE": "AUXILIAR ADMINISTRATIVO II",
+      "CBO": "",
+      "CBO_2002": "411005",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000036"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "35",
+      "NOME_DE": "AUXILIAR ADMINISTRATIVO III",
+      "CBO": "",
+      "CBO_2002": "411005",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000037"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "98",
+      "NOME_DE": "AUXILIAR ADMINISTRATIVO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "411005",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000038"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "13",
+      "NOME_DE": "AUXILIAR DE CONFERENCIA",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000039"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "55",
+      "NOME_DE": "AUXILIAR DE ESTOQUE",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000040"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "55",
+      "NOME_DE": "AUXILIAR DE ESTOQUE",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000040"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "46",
+      "NOME_DE": "AUXILIAR DE ESTOQUE I",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000041"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "47",
+      "NOME_DE": "AUXILIAR DE ESTOQUE II",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000042"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "47",
+      "NOME_DE": "AUXILIAR DE ESTOQUE II",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000042"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "84",
+      "NOME_DE": "AUXILIAR DE ESTOQUE III",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000043"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "54",
+      "NOME_DE": "AUXILIAR DE EXPEDIÇÃO",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000044"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "54",
+      "NOME_DE": "AUXILIAR DE EXPEDIÇÃO",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000044"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "48",
+      "NOME_DE": "AUXILIAR DE EXPEDIÇÃO I",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000045"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "39",
+      "NOME_DE": "AUXILIAR DE EXPEDIÇÃO III",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000046"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "57",
+      "NOME_DE": "AUXILIAR DE EXPEDIÇÃO IV",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000047"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "42",
+      "NOME_DE": "AUXILIAR DE FARMACIA",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000048"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "26",
+      "NOME_DE": "AUXILIAR DE FATURAMENTO",
+      "CBO": "",
+      "CBO_2002": "413115",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000049"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "45",
+      "NOME_DE": "AUXILIAR DE FATURAMENTO I",
+      "CBO": "",
+      "CBO_2002": "413115",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000050"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "53",
+      "NOME_DE": "AUXILIAR DE LABORATÓRIO",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000051"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "53",
+      "NOME_DE": "AUXILIAR DE LABORATÓRIO",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000051"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "38",
+      "NOME_DE": "AUXILIAR DE LABORATORIO II",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000052"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "41",
+      "NOME_DE": "AUXILIAR DE LABORATORIO III",
+      "CBO": "",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000053"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "62",
+      "NOME_DE": "AUXILIAR DE LABORATORIO IV",
+      "CBO": "818110",
+      "CBO_2002": "818110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000054"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "43",
+      "NOME_DE": "AUXILIAR DE LIMPEZA",
+      "CBO": "",
+      "CBO_2002": "514320",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000055"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "43",
+      "NOME_DE": "AUXILIAR DE LIMPEZA",
+      "CBO": "",
+      "CBO_2002": "514320",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000055"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "44",
+      "NOME_DE": "AUXILIAR DE LIMPEZA II",
+      "CBO": "",
+      "CBO_2002": "514320",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000056"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "83",
+      "NOME_DE": "AUXILIAR DE LIMPEZA III",
+      "CBO": "",
+      "CBO_2002": "514320",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000057"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "74",
+      "NOME_DE": "AUXILIAR DE MARKETING",
+      "CBO": "",
+      "CBO_2002": "253405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000058"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "25",
+      "NOME_DE": "AUXILIAR DE REPOSIÇÃO",
+      "CBO": "",
+      "CBO_2002": "521125",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000059"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "12",
+      "NOME_DE": "AUXILIAR EXPEDIÇÃO",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000060"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "32",
+      "NOME_DE": "BALCONISTA III",
+      "CBO": "",
+      "CBO_2002": "521130",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000061"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "1",
+      "NOME_DE": "COMPRADOR (A)",
+      "CBO": "",
+      "CBO_2002": "354205",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000062"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "2",
+      "NOME_DE": "COMPRADOR (A) V",
+      "CBO": "",
+      "CBO_2002": "354205",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000063"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "23",
+      "NOME_DE": "CONFERENTE",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000064"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "81",
+      "NOME_DE": "CONFERENTE I",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000065"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "59",
+      "NOME_DE": "CONFERENTE II",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000066"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "24",
+      "NOME_DE": "CONFERENTE III",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000067"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "15",
+      "NOME_DE": "CONFERENTE IV",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000068"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "8",
+      "NOME_DE": "CONFERENTE V",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000069"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "88",
+      "NOME_DE": "CONTROLADOR (A) DE QUALIDADE III",
+      "CBO": "",
+      "CBO_2002": "391205",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000070"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "88",
+      "NOME_DE": "CONTROLADOR (A) DE QUALIDADE III",
+      "CBO": "",
+      "CBO_2002": "391205",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000070"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "37",
+      "NOME_DE": "CONTROLADOR DE QUALIDADE",
+      "CBO": "",
+      "CBO_2002": "391205",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000071"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "89",
+      "NOME_DE": "CONTROLADOR DE QUALIDADE III",
+      "CBO": "",
+      "CBO_2002": "391205",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000072"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "89",
+      "NOME_DE": "CONTROLADOR DE QUALIDADE III",
+      "CBO": "",
+      "CBO_2002": "391205",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000072"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "97",
+      "NOME_DE": "COORDENADOR (A) ADMINISTRATIVO",
+      "CBO": "",
+      "CBO_2002": "410105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000073"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "10",
+      "NOME_DE": "COORDENADOR (A) CONFERENTE V",
+      "CBO": "",
+      "CBO_2002": "414105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000074"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "85",
+      "NOME_DE": "COORDENADOR (A) EXPEDICAO II",
+      "CBO": "",
+      "CBO_2002": "414135",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000075"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "66",
+      "NOME_DE": "COORDENADOR DE LABORATORIO III",
+      "CBO": "",
+      "CBO_2002": "410105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000076"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "33",
+      "NOME_DE": "COORDENADOR DE VENDAS",
+      "CBO": "",
+      "CBO_2002": "520110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000077"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "49",
+      "NOME_DE": "ENCAPSULADOR (A)",
+      "CBO": "",
+      "CBO_2002": "811810",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000078"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "108",
+      "NOME_DE": "ENCAPSULADOR (A) JUNIOR",
+      "CBO": "",
+      "CBO_2002": "811810",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000079"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "22",
+      "NOME_DE": "ENCAPSULADOR I",
+      "CBO": "",
+      "CBO_2002": "811810",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000080"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "77",
+      "NOME_DE": "ENCAPSULADOR II",
+      "CBO": "",
+      "CBO_2002": "811810",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000081"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "18",
+      "NOME_DE": "ENCAPSULADOR III",
+      "CBO": "",
+      "CBO_2002": "811810",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000082"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "112",
+      "NOME_DE": "ENCAPSULADOR(A) PLENO",
+      "CBO": "",
+      "CBO_2002": "811810",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000083"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "60",
+      "NOME_DE": "ESTOQUISTA III",
+      "CBO": "",
+      "CBO_2002": "414125",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000084"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "68",
+      "NOME_DE": "FARMACEUTICA VISITADORA - PISO",
+      "CBO": "223405",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000085"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "3",
+      "NOME_DE": "FARMACEUTICO (A)",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000086"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "3",
+      "NOME_DE": "FARMACEUTICO (A)",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000086"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "36",
+      "NOME_DE": "FARMACEUTICO (A) II",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000087"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "36",
+      "NOME_DE": "FARMACEUTICO (A) II",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000087"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "64",
+      "NOME_DE": "FARMACEUTICO I",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000088"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "65",
+      "NOME_DE": "FARMACEUTICO III",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000089"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "65",
+      "NOME_DE": "FARMACEUTICO III",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000089"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "101",
+      "NOME_DE": "FARMACEUTICO JUNIOR",
+      "CBO": "",
+      "CBO_2002": "223405",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000090"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "63",
+      "NOME_DE": "FATURAMENTO NIVEL I",
+      "CBO": "413115",
+      "CBO_2002": "413115",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000091"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "11",
+      "NOME_DE": "GERENTE ADMINISTRATIVO",
+      "CBO": "",
+      "CBO_2002": "142105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000092"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "11",
+      "NOME_DE": "GERENTE ADMINISTRATIVO",
+      "CBO": "",
+      "CBO_2002": "142105",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000092"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "80",
+      "NOME_DE": "GERENTE CONFERENTE I",
+      "CBO": "",
+      "CBO_2002": "142415",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000093"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "80",
+      "NOME_DE": "GERENTE CONFERENTE I",
+      "CBO": "",
+      "CBO_2002": "142415",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000093"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "92",
+      "NOME_DE": "GERENTE DE EXPEDIÇÃO",
+      "CBO": "",
+      "CBO_2002": "141615",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000094"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "92",
+      "NOME_DE": "GERENTE DE EXPEDIÇÃO",
+      "CBO": "",
+      "CBO_2002": "141615",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000094"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "75",
+      "NOME_DE": "GERENTE DE MARKETING",
+      "CBO": "",
+      "CBO_2002": "142315",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000095"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "75",
+      "NOME_DE": "GERENTE DE MARKETING",
+      "CBO": "",
+      "CBO_2002": "142315",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000095"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "76",
+      "NOME_DE": "GERENTE DE VENDAS",
+      "CBO": "",
+      "CBO_2002": "142320",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000096"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "76",
+      "NOME_DE": "GERENTE DE VENDAS",
+      "CBO": "",
+      "CBO_2002": "142320",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000096"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "82",
+      "NOME_DE": "GERENTE DE VENDAS I",
+      "CBO": "",
+      "CBO_2002": "142320",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000097"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "82",
+      "NOME_DE": "GERENTE DE VENDAS I",
+      "CBO": "",
+      "CBO_2002": "142320",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000097"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "14",
+      "NOME_DE": "Importação eSocial",
+      "CBO": "",
+      "CBO_2002": "",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000098"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "5",
+      "NOME_DE": "MANIPULADOR (A)",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000099"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "58",
+      "NOME_DE": "MANIPULADOR (A) I",
+      "CBO": "",
+      "CBO_2002": "325115",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000100"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "6",
+      "NOME_DE": "MANIPULADOR (A) II",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000101"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "6",
+      "NOME_DE": "MANIPULADOR (A) II",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000101"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "34",
+      "NOME_DE": "MANIPULADOR (A) IV",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000102"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "79",
+      "NOME_DE": "MANIPULADOR (A) V",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000103"
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "79",
+      "NOME_DE": "MANIPULADOR (A) V",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "4",
+      "CODIGO_PARA": "000103"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "31",
+      "NOME_DE": "MANIPULADOR III",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000104"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "110",
+      "NOME_DE": "MANIPULADOR(A) DERMATO PLENO",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000105"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "111",
+      "NOME_DE": "MANIPULADOR(A) JUNIOR",
+      "CBO": "",
+      "CBO_2002": "325110",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000106"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "61",
+      "NOME_DE": "MARKETING II",
+      "CBO": "",
+      "CBO_2002": "253115",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000107"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "16",
+      "NOME_DE": "OPERADOR DE TELEMARKETING",
+      "CBO": "",
+      "CBO_2002": "422310",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000108"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "52",
+      "NOME_DE": "RELACOES INSTITUCIONAIS",
+      "CBO": "",
+      "CBO_2002": "142345",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000109"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "71",
+      "NOME_DE": "TECNICO DE FARMACIA",
+      "CBO": "",
+      "CBO_2002": "325105",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000110"
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "51",
+      "NOME_DE": "VIGIA",
+      "CBO": "",
+      "CBO_2002": "517420",
+      "COLIGADA_PARA": "2",
+      "CODIGO_PARA": "000111"
+    }
+  ],
+  "ZDEPARA_SECOES": [
+    {
+      "EMPRESA_DE": "1",
+      "CODIGO_DE": "1",
+      "FILIAL_DE": "1",
+      "NOME_DE": "Centro de Custo",
+      "COLIGADA_PARA": "1",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "1",
+      "FILIAL_DE": "1",
+      "NOME_DE": "Centro de Custo",
+      "COLIGADA_PARA": "2",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "2",
+      "FILIAL_DE": "1",
+      "NOME_DE": "JABAQUARA",
+      "COLIGADA_PARA": "2",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "3",
+      "FILIAL_DE": "1",
+      "NOME_DE": "PRACA DA ARVORE",
+      "COLIGADA_PARA": "2",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "4",
+      "FILIAL_DE": "1",
+      "NOME_DE": "HOME OFFICE",
+      "COLIGADA_PARA": "2",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "4",
+      "CODIGO_DE": "5",
+      "FILIAL_DE": "1",
+      "NOME_DE": "SANTO ANDRE",
+      "COLIGADA_PARA": "2",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "1",
+      "FILIAL_DE": "1",
+      "NOME_DE": "JABAQUARA",
+      "COLIGADA_PARA": "4",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "2",
+      "FILIAL_DE": "1",
+      "NOME_DE": "PRAÇA DA ARVORE",
+      "COLIGADA_PARA": "4",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "3",
+      "FILIAL_DE": "1",
+      "NOME_DE": "HOME OFFICE",
+      "COLIGADA_PARA": "4",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    },
+    {
+      "EMPRESA_DE": "6",
+      "CODIGO_DE": "4",
+      "FILIAL_DE": "1",
+      "NOME_DE": "SANTO ANDRE",
+      "COLIGADA_PARA": "4",
+      "FILIAL_PARA": "",
+      "CODIGO_PARA": "",
+      "DESCRICAO_SECAO_PARA": ""
+    }
+  ],
+  "ZDEPARA_SINDICATOS": [
+    {
+      "CODIGO_DE": "3",
+      "NOME_DE": "SINDICATO DOS PROFESSORES DE SAO PAULO - CONVENCOES EDUCACAO BASICA",
+      "CNPJ": "50270172000153",
+      "CODIGO_PARA": "001"
+    },
+    {
+      "CODIGO_DE": "1072",
+      "NOME_DE": "SINDICATO DOS PRATICOS DE FARMACIA E DOS EMPREGADOS NO COMERCIO DE DROGAS MEDICAMENTOS E PRODUTOS FARMACEUTICOS DE",
+      "CNPJ": "62653431000104",
+      "CODIGO_PARA": "002"
+    },
+    {
+      "CODIGO_DE": "1083",
+      "NOME_DE": "SINDICATO DOS FARMACEUTICOS NO ESTADO DE SAO PAULO",
+      "CNPJ": "62448543000123",
+      "CODIGO_PARA": "003"
+    }
+  ],
+  "ZDEPARA_BANCOS": [],
+  "ZDEPARA_SITUACAO": [
+    {
+      "CODIGO_DE": "4",
+      "NOME_DE": "Serviço militar",
+      "CODSITUACAO_PARA": "M",
+      "CODMOTIVO_PARA": "32",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "38"
+    },
+    {
+      "CODIGO_DE": "5",
+      "NOME_DE": "Licença maternidade",
+      "CODSITUACAO_PARA": "E",
+      "CODMOTIVO_PARA": "09",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "09"
+    },
+    {
+      "CODIGO_DE": "6",
+      "NOME_DE": "Doença período superior a 15 dias",
+      "CODSITUACAO_PARA": "O",
+      "CODMOTIVO_PARA": "40",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "38"
+    },
+    {
+      "CODIGO_DE": "9",
+      "NOME_DE": "Férias",
+      "CODSITUACAO_PARA": "F",
+      "CODMOTIVO_PARA": "03",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "04"
+    },
+    {
+      "CODIGO_DE": "12",
+      "NOME_DE": "Novo afast. mesma doença",
+      "CODSITUACAO_PARA": "O",
+      "CODMOTIVO_PARA": "37",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "38"
+    },
+    {
+      "CODIGO_DE": "18",
+      "NOME_DE": "Doença período igual ou inferior a 15 dias",
+      "CODSITUACAO_PARA": "O",
+      "CODMOTIVO_PARA": "39",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "38"
+    },
+    {
+      "CODIGO_DE": "39",
+      "NOME_DE": "Ausência justificada",
+      "CODSITUACAO_PARA": "O",
+      "CODMOTIVO_PARA": "39",
+      "CODSITUACAO_RETORNO_PARA": "",
+      "CODMOTIVO_RETORNO_PARA": "38"
+    }
+  ]
+}
