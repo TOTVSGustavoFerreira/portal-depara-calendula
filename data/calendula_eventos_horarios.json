@@ -22396,7 +22396,10 @@
       "observacao": "",
       "SUGESTOES": "",
       "sugestoes": "",
-      "nomeRm": ""
+      "nomeRm": "",
+      "hasDivergencia": false,
+      "hasDivergenciaDuplicidade": false,
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 641,
@@ -22429,7 +22432,10 @@
       "observacao": "",
       "SUGESTOES": "",
       "sugestoes": "",
-      "nomeRm": ""
+      "nomeRm": "",
+      "hasDivergencia": false,
+      "hasDivergenciaDuplicidade": false,
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 642,
@@ -22443,7 +22449,7 @@
       "CODIGO_PARA_FICHA_MES1": "",
       "CODIGO_PARA_FICHA_MES2": "",
       "CODIGO_PARA_VERBAS_FERIAS": "",
-      "OBSERVACAO": "",
+      "OBSERVACAO": "TESTE",
       "NOME_RM 2": "",
       "NOME_RM 3": "",
       "NOME_RM 4": "",
@@ -22459,10 +22465,13 @@
       "codigoParaFichaMes1": "",
       "codigoParaFichaMes2": "",
       "codigoParaVerbasFerias": "",
-      "observacao": "",
+      "observacao": "TESTE",
       "SUGESTOES": "",
       "sugestoes": "",
-      "nomeRm": ""
+      "nomeRm": "",
+      "hasDivergencia": false,
+      "hasDivergenciaDuplicidade": false,
+      "hasDivergenciaTipo": false
     }
   ],
   "ZDEPARA_HORARIO": [
