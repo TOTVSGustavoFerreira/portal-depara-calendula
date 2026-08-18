@@ -5,42 +5,84 @@
       "ID": "1",
       "NOME_DE": "CALENDULA FARMACIA DE MANIPULACAO LTDA",
       "CNPJ": "13588190000151",
-      "CODCOLIGADA": "1"
+      "CODCOLIGADA": "1",
+      "rowNum": 1,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "2",
       "ID": "1",
       "NOME_DE": "CALENDULA FARMACIA DE MANIPULACAO LTDA",
       "CNPJ": "13588190000232",
-      "CODCOLIGADA": "1"
+      "CODCOLIGADA": "1",
+      "rowNum": 2,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "3",
       "ID": "1",
       "NOME_DE": "CALENDULA FARMACIA DE MANIPULACAO LTDA",
       "CNPJ": "13588190000313",
-      "CODCOLIGADA": "1"
+      "CODCOLIGADA": "1",
+      "rowNum": 3,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
       "ID": "2",
       "NOME_DE": "UP PRESTACAO DE SERVICOS LTDA",
       "CNPJ": "44464607000106",
-      "CODCOLIGADA": "2"
+      "CODCOLIGADA": "2",
+      "rowNum": 4,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "5",
       "ID": "3",
       "NOME_DE": "BS SUPLEMENTOS LTDA",
       "CNPJ": "55211479000105",
-      "CODCOLIGADA": "3"
+      "CODCOLIGADA": "3",
+      "rowNum": 5,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
       "ID": "4",
       "NOME_DE": "LEVEL PRESTADORA DE SERVICOS E COMERCIO",
       "CNPJ": "59891167000132",
-      "CODCOLIGADA": "4"
+      "CODCOLIGADA": "4",
+      "rowNum": 6,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     }
   ],
   "ZDEPARA_FUNCOES": [
@@ -51,7 +93,12 @@
       "CBO": "",
       "CBO_2002": "252105",
       "COLIGADA_PARA": "1",
-      "CODIGO_PARA": "000001"
+      "CODIGO_PARA": "000001",
+      "rowNum": 1,
+      "coligadaPara": "1",
+      "codigoPara": "000001",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "1",
@@ -60,7 +107,12 @@
       "CBO": "",
       "CBO_2002": "252105",
       "COLIGADA_PARA": "1",
-      "CODIGO_PARA": "000001"
+      "CODIGO_PARA": "000001",
+      "rowNum": 2,
+      "coligadaPara": "1",
+      "codigoPara": "000001",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -69,7 +121,12 @@
       "CBO": "",
       "CBO_2002": "252105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000002"
+      "CODIGO_PARA": "000002",
+      "rowNum": 3,
+      "coligadaPara": "2",
+      "codigoPara": "000002",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -78,7 +135,12 @@
       "CBO": "",
       "CBO_2002": "252105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000003"
+      "CODIGO_PARA": "000003",
+      "rowNum": 4,
+      "coligadaPara": "2",
+      "codigoPara": "000003",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -87,7 +149,12 @@
       "CBO": "",
       "CBO_2002": "252105",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000003"
+      "CODIGO_PARA": "000003",
+      "rowNum": 5,
+      "coligadaPara": "4",
+      "codigoPara": "000003",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -96,7 +163,12 @@
       "CBO": "",
       "CBO_2002": "252105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000004"
+      "CODIGO_PARA": "000004",
+      "rowNum": 6,
+      "coligadaPara": "2",
+      "codigoPara": "000004",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -105,7 +177,12 @@
       "CBO": "",
       "CBO_2002": "252405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000005"
+      "CODIGO_PARA": "000005",
+      "rowNum": 7,
+      "coligadaPara": "2",
+      "codigoPara": "000005",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -114,7 +191,12 @@
       "CBO": "",
       "CBO_2002": "252405",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000005"
+      "CODIGO_PARA": "000005",
+      "rowNum": 8,
+      "coligadaPara": "4",
+      "codigoPara": "000005",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -123,7 +205,12 @@
       "CBO": "",
       "CBO_2002": "142360",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000006"
+      "CODIGO_PARA": "000006",
+      "rowNum": 9,
+      "coligadaPara": "2",
+      "codigoPara": "000006",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -132,7 +219,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000007"
+      "CODIGO_PARA": "000007",
+      "rowNum": 10,
+      "coligadaPara": "2",
+      "codigoPara": "000007",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -141,7 +233,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000008"
+      "CODIGO_PARA": "000008",
+      "rowNum": 11,
+      "coligadaPara": "2",
+      "codigoPara": "000008",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -150,7 +247,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000009"
+      "CODIGO_PARA": "000009",
+      "rowNum": 12,
+      "coligadaPara": "2",
+      "codigoPara": "000009",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -159,7 +261,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000010"
+      "CODIGO_PARA": "000010",
+      "rowNum": 13,
+      "coligadaPara": "2",
+      "codigoPara": "000010",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -168,7 +275,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000010"
+      "CODIGO_PARA": "000010",
+      "rowNum": 14,
+      "coligadaPara": "4",
+      "codigoPara": "000010",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -177,7 +289,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000011"
+      "CODIGO_PARA": "000011",
+      "rowNum": 15,
+      "coligadaPara": "2",
+      "codigoPara": "000011",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -186,7 +303,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000012"
+      "CODIGO_PARA": "000012",
+      "rowNum": 16,
+      "coligadaPara": "2",
+      "codigoPara": "000012",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -195,7 +317,12 @@
       "CBO": "",
       "CBO_2002": "411010",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000013"
+      "CODIGO_PARA": "000013",
+      "rowNum": 17,
+      "coligadaPara": "2",
+      "codigoPara": "000013",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -204,7 +331,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000014"
+      "CODIGO_PARA": "000014",
+      "rowNum": 18,
+      "coligadaPara": "2",
+      "codigoPara": "000014",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -213,7 +345,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000015"
+      "CODIGO_PARA": "000015",
+      "rowNum": 19,
+      "coligadaPara": "2",
+      "codigoPara": "000015",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -222,7 +359,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000016"
+      "CODIGO_PARA": "000016",
+      "rowNum": 20,
+      "coligadaPara": "2",
+      "codigoPara": "000016",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -231,7 +373,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000017"
+      "CODIGO_PARA": "000017",
+      "rowNum": 21,
+      "coligadaPara": "2",
+      "codigoPara": "000017",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -240,7 +387,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000018"
+      "CODIGO_PARA": "000018",
+      "rowNum": 22,
+      "coligadaPara": "2",
+      "codigoPara": "000018",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -249,7 +401,12 @@
       "CBO": "",
       "CBO_2002": "253115",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000019"
+      "CODIGO_PARA": "000019",
+      "rowNum": 23,
+      "coligadaPara": "2",
+      "codigoPara": "000019",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -258,7 +415,12 @@
       "CBO": "",
       "CBO_2002": "354125",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000020"
+      "CODIGO_PARA": "000020",
+      "rowNum": 24,
+      "coligadaPara": "4",
+      "codigoPara": "000020",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -267,7 +429,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000021"
+      "CODIGO_PARA": "000021",
+      "rowNum": 25,
+      "coligadaPara": "2",
+      "codigoPara": "000021",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -276,7 +443,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000022"
+      "CODIGO_PARA": "000022",
+      "rowNum": 26,
+      "coligadaPara": "2",
+      "codigoPara": "000022",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -285,7 +457,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000023"
+      "CODIGO_PARA": "000023",
+      "rowNum": 27,
+      "coligadaPara": "2",
+      "codigoPara": "000023",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -294,7 +471,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000024"
+      "CODIGO_PARA": "000024",
+      "rowNum": 28,
+      "coligadaPara": "2",
+      "codigoPara": "000024",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -303,7 +485,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000025"
+      "CODIGO_PARA": "000025",
+      "rowNum": 29,
+      "coligadaPara": "2",
+      "codigoPara": "000025",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -312,7 +499,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000026"
+      "CODIGO_PARA": "000026",
+      "rowNum": 30,
+      "coligadaPara": "2",
+      "codigoPara": "000026",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -321,7 +513,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000026"
+      "CODIGO_PARA": "000026",
+      "rowNum": 31,
+      "coligadaPara": "4",
+      "codigoPara": "000026",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -330,7 +527,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000027"
+      "CODIGO_PARA": "000027",
+      "rowNum": 32,
+      "coligadaPara": "2",
+      "codigoPara": "000027",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -339,7 +541,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000027"
+      "CODIGO_PARA": "000027",
+      "rowNum": 33,
+      "coligadaPara": "4",
+      "codigoPara": "000027",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -348,7 +555,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000028"
+      "CODIGO_PARA": "000028",
+      "rowNum": 34,
+      "coligadaPara": "2",
+      "codigoPara": "000028",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -357,7 +569,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000028"
+      "CODIGO_PARA": "000028",
+      "rowNum": 35,
+      "coligadaPara": "2",
+      "codigoPara": "000028",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -366,7 +583,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000029"
+      "CODIGO_PARA": "000029",
+      "rowNum": 36,
+      "coligadaPara": "2",
+      "codigoPara": "000029",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -375,7 +597,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000030"
+      "CODIGO_PARA": "000030",
+      "rowNum": 37,
+      "coligadaPara": "2",
+      "codigoPara": "000030",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -384,7 +611,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000031"
+      "CODIGO_PARA": "000031",
+      "rowNum": 38,
+      "coligadaPara": "2",
+      "codigoPara": "000031",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -393,7 +625,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000032"
+      "CODIGO_PARA": "000032",
+      "rowNum": 39,
+      "coligadaPara": "2",
+      "codigoPara": "000032",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -402,7 +639,12 @@
       "CBO": "",
       "CBO_2002": "411005",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000033"
+      "CODIGO_PARA": "000033",
+      "rowNum": 40,
+      "coligadaPara": "2",
+      "codigoPara": "000033",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -411,7 +653,12 @@
       "CBO": "",
       "CBO_2002": "411005",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000034"
+      "CODIGO_PARA": "000034",
+      "rowNum": 41,
+      "coligadaPara": "2",
+      "codigoPara": "000034",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -420,7 +667,12 @@
       "CBO": "",
       "CBO_2002": "411005",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000035"
+      "CODIGO_PARA": "000035",
+      "rowNum": 42,
+      "coligadaPara": "2",
+      "codigoPara": "000035",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -429,7 +681,12 @@
       "CBO": "",
       "CBO_2002": "411005",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000036"
+      "CODIGO_PARA": "000036",
+      "rowNum": 43,
+      "coligadaPara": "2",
+      "codigoPara": "000036",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -438,7 +695,12 @@
       "CBO": "",
       "CBO_2002": "411005",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000037"
+      "CODIGO_PARA": "000037",
+      "rowNum": 44,
+      "coligadaPara": "2",
+      "codigoPara": "000037",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -447,7 +709,12 @@
       "CBO": "",
       "CBO_2002": "411005",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000038"
+      "CODIGO_PARA": "000038",
+      "rowNum": 45,
+      "coligadaPara": "2",
+      "codigoPara": "000038",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -456,7 +723,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000039"
+      "CODIGO_PARA": "000039",
+      "rowNum": 46,
+      "coligadaPara": "2",
+      "codigoPara": "000039",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -465,7 +737,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000040"
+      "CODIGO_PARA": "000040",
+      "rowNum": 47,
+      "coligadaPara": "2",
+      "codigoPara": "000040",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -474,7 +751,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000040"
+      "CODIGO_PARA": "000040",
+      "rowNum": 48,
+      "coligadaPara": "4",
+      "codigoPara": "000040",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -483,7 +765,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000041"
+      "CODIGO_PARA": "000041",
+      "rowNum": 49,
+      "coligadaPara": "2",
+      "codigoPara": "000041",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -492,7 +779,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000042"
+      "CODIGO_PARA": "000042",
+      "rowNum": 50,
+      "coligadaPara": "2",
+      "codigoPara": "000042",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -501,7 +793,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000042"
+      "CODIGO_PARA": "000042",
+      "rowNum": 51,
+      "coligadaPara": "4",
+      "codigoPara": "000042",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -510,7 +807,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000043"
+      "CODIGO_PARA": "000043",
+      "rowNum": 52,
+      "coligadaPara": "2",
+      "codigoPara": "000043",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -519,7 +821,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000044"
+      "CODIGO_PARA": "000044",
+      "rowNum": 53,
+      "coligadaPara": "2",
+      "codigoPara": "000044",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -528,7 +835,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000044"
+      "CODIGO_PARA": "000044",
+      "rowNum": 54,
+      "coligadaPara": "4",
+      "codigoPara": "000044",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -537,7 +849,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000045"
+      "CODIGO_PARA": "000045",
+      "rowNum": 55,
+      "coligadaPara": "2",
+      "codigoPara": "000045",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -546,7 +863,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000046"
+      "CODIGO_PARA": "000046",
+      "rowNum": 56,
+      "coligadaPara": "2",
+      "codigoPara": "000046",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -555,7 +877,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000047"
+      "CODIGO_PARA": "000047",
+      "rowNum": 57,
+      "coligadaPara": "2",
+      "codigoPara": "000047",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -564,7 +891,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000048"
+      "CODIGO_PARA": "000048",
+      "rowNum": 58,
+      "coligadaPara": "2",
+      "codigoPara": "000048",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -573,7 +905,12 @@
       "CBO": "",
       "CBO_2002": "413115",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000049"
+      "CODIGO_PARA": "000049",
+      "rowNum": 59,
+      "coligadaPara": "2",
+      "codigoPara": "000049",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -582,7 +919,12 @@
       "CBO": "",
       "CBO_2002": "413115",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000050"
+      "CODIGO_PARA": "000050",
+      "rowNum": 60,
+      "coligadaPara": "2",
+      "codigoPara": "000050",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -591,7 +933,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000051"
+      "CODIGO_PARA": "000051",
+      "rowNum": 61,
+      "coligadaPara": "2",
+      "codigoPara": "000051",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -600,7 +947,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000051"
+      "CODIGO_PARA": "000051",
+      "rowNum": 62,
+      "coligadaPara": "4",
+      "codigoPara": "000051",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -609,7 +961,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000052"
+      "CODIGO_PARA": "000052",
+      "rowNum": 63,
+      "coligadaPara": "2",
+      "codigoPara": "000052",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -618,7 +975,12 @@
       "CBO": "",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000053"
+      "CODIGO_PARA": "000053",
+      "rowNum": 64,
+      "coligadaPara": "2",
+      "codigoPara": "000053",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -627,7 +989,12 @@
       "CBO": "818110",
       "CBO_2002": "818110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000054"
+      "CODIGO_PARA": "000054",
+      "rowNum": 65,
+      "coligadaPara": "2",
+      "codigoPara": "000054",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -636,7 +1003,12 @@
       "CBO": "",
       "CBO_2002": "514320",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000055"
+      "CODIGO_PARA": "000055",
+      "rowNum": 66,
+      "coligadaPara": "2",
+      "codigoPara": "000055",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -645,7 +1017,12 @@
       "CBO": "",
       "CBO_2002": "514320",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000055"
+      "CODIGO_PARA": "000055",
+      "rowNum": 67,
+      "coligadaPara": "4",
+      "codigoPara": "000055",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -654,7 +1031,12 @@
       "CBO": "",
       "CBO_2002": "514320",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000056"
+      "CODIGO_PARA": "000056",
+      "rowNum": 68,
+      "coligadaPara": "2",
+      "codigoPara": "000056",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -663,7 +1045,12 @@
       "CBO": "",
       "CBO_2002": "514320",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000057"
+      "CODIGO_PARA": "000057",
+      "rowNum": 69,
+      "coligadaPara": "2",
+      "codigoPara": "000057",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -672,7 +1059,12 @@
       "CBO": "",
       "CBO_2002": "253405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000058"
+      "CODIGO_PARA": "000058",
+      "rowNum": 70,
+      "coligadaPara": "2",
+      "codigoPara": "000058",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -681,7 +1073,12 @@
       "CBO": "",
       "CBO_2002": "521125",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000059"
+      "CODIGO_PARA": "000059",
+      "rowNum": 71,
+      "coligadaPara": "2",
+      "codigoPara": "000059",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -690,7 +1087,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000060"
+      "CODIGO_PARA": "000060",
+      "rowNum": 72,
+      "coligadaPara": "2",
+      "codigoPara": "000060",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -699,7 +1101,12 @@
       "CBO": "",
       "CBO_2002": "521130",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000061"
+      "CODIGO_PARA": "000061",
+      "rowNum": 73,
+      "coligadaPara": "2",
+      "codigoPara": "000061",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -708,7 +1115,12 @@
       "CBO": "",
       "CBO_2002": "354205",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000062"
+      "CODIGO_PARA": "000062",
+      "rowNum": 74,
+      "coligadaPara": "2",
+      "codigoPara": "000062",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -717,7 +1129,12 @@
       "CBO": "",
       "CBO_2002": "354205",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000063"
+      "CODIGO_PARA": "000063",
+      "rowNum": 75,
+      "coligadaPara": "2",
+      "codigoPara": "000063",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -726,7 +1143,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000064"
+      "CODIGO_PARA": "000064",
+      "rowNum": 76,
+      "coligadaPara": "2",
+      "codigoPara": "000064",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -735,7 +1157,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000065"
+      "CODIGO_PARA": "000065",
+      "rowNum": 77,
+      "coligadaPara": "2",
+      "codigoPara": "000065",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -744,7 +1171,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000066"
+      "CODIGO_PARA": "000066",
+      "rowNum": 78,
+      "coligadaPara": "2",
+      "codigoPara": "000066",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -753,7 +1185,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000067"
+      "CODIGO_PARA": "000067",
+      "rowNum": 79,
+      "coligadaPara": "2",
+      "codigoPara": "000067",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -762,7 +1199,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000068"
+      "CODIGO_PARA": "000068",
+      "rowNum": 80,
+      "coligadaPara": "2",
+      "codigoPara": "000068",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -771,7 +1213,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000069"
+      "CODIGO_PARA": "000069",
+      "rowNum": 81,
+      "coligadaPara": "2",
+      "codigoPara": "000069",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -780,7 +1227,12 @@
       "CBO": "",
       "CBO_2002": "391205",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000070"
+      "CODIGO_PARA": "000070",
+      "rowNum": 82,
+      "coligadaPara": "2",
+      "codigoPara": "000070",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -789,7 +1241,12 @@
       "CBO": "",
       "CBO_2002": "391205",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000070"
+      "CODIGO_PARA": "000070",
+      "rowNum": 83,
+      "coligadaPara": "4",
+      "codigoPara": "000070",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -798,7 +1255,12 @@
       "CBO": "",
       "CBO_2002": "391205",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000071"
+      "CODIGO_PARA": "000071",
+      "rowNum": 84,
+      "coligadaPara": "2",
+      "codigoPara": "000071",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -807,7 +1269,12 @@
       "CBO": "",
       "CBO_2002": "391205",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000072"
+      "CODIGO_PARA": "000072",
+      "rowNum": 85,
+      "coligadaPara": "2",
+      "codigoPara": "000072",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -816,7 +1283,12 @@
       "CBO": "",
       "CBO_2002": "391205",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000072"
+      "CODIGO_PARA": "000072",
+      "rowNum": 86,
+      "coligadaPara": "4",
+      "codigoPara": "000072",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -825,7 +1297,12 @@
       "CBO": "",
       "CBO_2002": "410105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000073"
+      "CODIGO_PARA": "000073",
+      "rowNum": 87,
+      "coligadaPara": "2",
+      "codigoPara": "000073",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -834,7 +1311,12 @@
       "CBO": "",
       "CBO_2002": "414105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000074"
+      "CODIGO_PARA": "000074",
+      "rowNum": 88,
+      "coligadaPara": "2",
+      "codigoPara": "000074",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -843,7 +1325,12 @@
       "CBO": "",
       "CBO_2002": "414135",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000075"
+      "CODIGO_PARA": "000075",
+      "rowNum": 89,
+      "coligadaPara": "2",
+      "codigoPara": "000075",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -852,7 +1339,12 @@
       "CBO": "",
       "CBO_2002": "410105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000076"
+      "CODIGO_PARA": "000076",
+      "rowNum": 90,
+      "coligadaPara": "2",
+      "codigoPara": "000076",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -861,7 +1353,12 @@
       "CBO": "",
       "CBO_2002": "520110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000077"
+      "CODIGO_PARA": "000077",
+      "rowNum": 91,
+      "coligadaPara": "2",
+      "codigoPara": "000077",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -870,7 +1367,12 @@
       "CBO": "",
       "CBO_2002": "811810",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000078"
+      "CODIGO_PARA": "000078",
+      "rowNum": 92,
+      "coligadaPara": "2",
+      "codigoPara": "000078",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -879,7 +1381,12 @@
       "CBO": "",
       "CBO_2002": "811810",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000079"
+      "CODIGO_PARA": "000079",
+      "rowNum": 93,
+      "coligadaPara": "2",
+      "codigoPara": "000079",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -888,7 +1395,12 @@
       "CBO": "",
       "CBO_2002": "811810",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000080"
+      "CODIGO_PARA": "000080",
+      "rowNum": 94,
+      "coligadaPara": "2",
+      "codigoPara": "000080",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -897,7 +1409,12 @@
       "CBO": "",
       "CBO_2002": "811810",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000081"
+      "CODIGO_PARA": "000081",
+      "rowNum": 95,
+      "coligadaPara": "2",
+      "codigoPara": "000081",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -906,7 +1423,12 @@
       "CBO": "",
       "CBO_2002": "811810",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000082"
+      "CODIGO_PARA": "000082",
+      "rowNum": 96,
+      "coligadaPara": "2",
+      "codigoPara": "000082",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -915,7 +1437,12 @@
       "CBO": "",
       "CBO_2002": "811810",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000083"
+      "CODIGO_PARA": "000083",
+      "rowNum": 97,
+      "coligadaPara": "2",
+      "codigoPara": "000083",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -924,7 +1451,12 @@
       "CBO": "",
       "CBO_2002": "414125",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000084"
+      "CODIGO_PARA": "000084",
+      "rowNum": 98,
+      "coligadaPara": "2",
+      "codigoPara": "000084",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -933,7 +1465,12 @@
       "CBO": "223405",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000085"
+      "CODIGO_PARA": "000085",
+      "rowNum": 99,
+      "coligadaPara": "2",
+      "codigoPara": "000085",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -942,7 +1479,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000086"
+      "CODIGO_PARA": "000086",
+      "rowNum": 100,
+      "coligadaPara": "2",
+      "codigoPara": "000086",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -951,7 +1493,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000086"
+      "CODIGO_PARA": "000086",
+      "rowNum": 101,
+      "coligadaPara": "4",
+      "codigoPara": "000086",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -960,7 +1507,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000087"
+      "CODIGO_PARA": "000087",
+      "rowNum": 102,
+      "coligadaPara": "2",
+      "codigoPara": "000087",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -969,7 +1521,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000087"
+      "CODIGO_PARA": "000087",
+      "rowNum": 103,
+      "coligadaPara": "4",
+      "codigoPara": "000087",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -978,7 +1535,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000088"
+      "CODIGO_PARA": "000088",
+      "rowNum": 104,
+      "coligadaPara": "2",
+      "codigoPara": "000088",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -987,7 +1549,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000089"
+      "CODIGO_PARA": "000089",
+      "rowNum": 105,
+      "coligadaPara": "2",
+      "codigoPara": "000089",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -996,7 +1563,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000089"
+      "CODIGO_PARA": "000089",
+      "rowNum": 106,
+      "coligadaPara": "4",
+      "codigoPara": "000089",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1005,7 +1577,12 @@
       "CBO": "",
       "CBO_2002": "223405",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000090"
+      "CODIGO_PARA": "000090",
+      "rowNum": 107,
+      "coligadaPara": "4",
+      "codigoPara": "000090",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1014,7 +1591,12 @@
       "CBO": "413115",
       "CBO_2002": "413115",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000091"
+      "CODIGO_PARA": "000091",
+      "rowNum": 108,
+      "coligadaPara": "2",
+      "codigoPara": "000091",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1023,7 +1605,12 @@
       "CBO": "",
       "CBO_2002": "142105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000092"
+      "CODIGO_PARA": "000092",
+      "rowNum": 109,
+      "coligadaPara": "2",
+      "codigoPara": "000092",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1032,7 +1619,12 @@
       "CBO": "",
       "CBO_2002": "142105",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000092"
+      "CODIGO_PARA": "000092",
+      "rowNum": 110,
+      "coligadaPara": "4",
+      "codigoPara": "000092",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1041,7 +1633,12 @@
       "CBO": "",
       "CBO_2002": "142415",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000093"
+      "CODIGO_PARA": "000093",
+      "rowNum": 111,
+      "coligadaPara": "2",
+      "codigoPara": "000093",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1050,7 +1647,12 @@
       "CBO": "",
       "CBO_2002": "142415",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000093"
+      "CODIGO_PARA": "000093",
+      "rowNum": 112,
+      "coligadaPara": "4",
+      "codigoPara": "000093",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1059,7 +1661,12 @@
       "CBO": "",
       "CBO_2002": "141615",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000094"
+      "CODIGO_PARA": "000094",
+      "rowNum": 113,
+      "coligadaPara": "2",
+      "codigoPara": "000094",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1068,7 +1675,12 @@
       "CBO": "",
       "CBO_2002": "141615",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000094"
+      "CODIGO_PARA": "000094",
+      "rowNum": 114,
+      "coligadaPara": "4",
+      "codigoPara": "000094",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1077,7 +1689,12 @@
       "CBO": "",
       "CBO_2002": "142315",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000095"
+      "CODIGO_PARA": "000095",
+      "rowNum": 115,
+      "coligadaPara": "2",
+      "codigoPara": "000095",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1086,7 +1703,12 @@
       "CBO": "",
       "CBO_2002": "142315",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000095"
+      "CODIGO_PARA": "000095",
+      "rowNum": 116,
+      "coligadaPara": "4",
+      "codigoPara": "000095",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1095,7 +1717,12 @@
       "CBO": "",
       "CBO_2002": "142320",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000096"
+      "CODIGO_PARA": "000096",
+      "rowNum": 117,
+      "coligadaPara": "2",
+      "codigoPara": "000096",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1104,7 +1731,12 @@
       "CBO": "",
       "CBO_2002": "142320",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000096"
+      "CODIGO_PARA": "000096",
+      "rowNum": 118,
+      "coligadaPara": "4",
+      "codigoPara": "000096",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1113,7 +1745,12 @@
       "CBO": "",
       "CBO_2002": "142320",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000097"
+      "CODIGO_PARA": "000097",
+      "rowNum": 119,
+      "coligadaPara": "2",
+      "codigoPara": "000097",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1122,7 +1759,12 @@
       "CBO": "",
       "CBO_2002": "142320",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000097"
+      "CODIGO_PARA": "000097",
+      "rowNum": 120,
+      "coligadaPara": "4",
+      "codigoPara": "000097",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1131,7 +1773,12 @@
       "CBO": "",
       "CBO_2002": "",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000098"
+      "CODIGO_PARA": "000098",
+      "rowNum": 121,
+      "coligadaPara": "2",
+      "codigoPara": "000098",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1140,7 +1787,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000099"
+      "CODIGO_PARA": "000099",
+      "rowNum": 122,
+      "coligadaPara": "2",
+      "codigoPara": "000099",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1149,7 +1801,12 @@
       "CBO": "",
       "CBO_2002": "325115",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000100"
+      "CODIGO_PARA": "000100",
+      "rowNum": 123,
+      "coligadaPara": "2",
+      "codigoPara": "000100",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1158,7 +1815,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000101"
+      "CODIGO_PARA": "000101",
+      "rowNum": 124,
+      "coligadaPara": "2",
+      "codigoPara": "000101",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1167,7 +1829,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000101"
+      "CODIGO_PARA": "000101",
+      "rowNum": 125,
+      "coligadaPara": "4",
+      "codigoPara": "000101",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1176,7 +1843,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000102"
+      "CODIGO_PARA": "000102",
+      "rowNum": 126,
+      "coligadaPara": "2",
+      "codigoPara": "000102",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1185,7 +1857,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000103"
+      "CODIGO_PARA": "000103",
+      "rowNum": 127,
+      "coligadaPara": "2",
+      "codigoPara": "000103",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1194,7 +1871,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "000103"
+      "CODIGO_PARA": "000103",
+      "rowNum": 128,
+      "coligadaPara": "4",
+      "codigoPara": "000103",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1203,7 +1885,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000104"
+      "CODIGO_PARA": "000104",
+      "rowNum": 129,
+      "coligadaPara": "2",
+      "codigoPara": "000104",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1212,7 +1899,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000105"
+      "CODIGO_PARA": "000105",
+      "rowNum": 130,
+      "coligadaPara": "2",
+      "codigoPara": "000105",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1221,7 +1913,12 @@
       "CBO": "",
       "CBO_2002": "325110",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000106"
+      "CODIGO_PARA": "000106",
+      "rowNum": 131,
+      "coligadaPara": "2",
+      "codigoPara": "000106",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1230,7 +1927,12 @@
       "CBO": "",
       "CBO_2002": "253115",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000107"
+      "CODIGO_PARA": "000107",
+      "rowNum": 132,
+      "coligadaPara": "2",
+      "codigoPara": "000107",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1239,7 +1941,12 @@
       "CBO": "",
       "CBO_2002": "422310",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000108"
+      "CODIGO_PARA": "000108",
+      "rowNum": 133,
+      "coligadaPara": "2",
+      "codigoPara": "000108",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1248,7 +1955,12 @@
       "CBO": "",
       "CBO_2002": "142345",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000109"
+      "CODIGO_PARA": "000109",
+      "rowNum": 134,
+      "coligadaPara": "2",
+      "codigoPara": "000109",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1257,7 +1969,12 @@
       "CBO": "",
       "CBO_2002": "325105",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000110"
+      "CODIGO_PARA": "000110",
+      "rowNum": 135,
+      "coligadaPara": "2",
+      "codigoPara": "000110",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1266,7 +1983,50 @@
       "CBO": "",
       "CBO_2002": "517420",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "000111"
+      "CODIGO_PARA": "000111",
+      "rowNum": 136,
+      "coligadaPara": "2",
+      "codigoPara": "000111",
+      "OBSERVACAO": "",
+      "observacao": ""
+    }
+  ],
+  "ZDEPARA_SINDICATOS": [
+    {
+      "CODIGO_DE": "3",
+      "NOME_DE": "SINDICATO DOS PROFESSORES DE SAO PAULO - CONVENCOES EDUCACAO BASICA",
+      "CNPJ": "50270172000153",
+      "CODIGO_PARA": "001",
+      "rowNum": 1,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "codigoPara": "001",
+      "OBSERVACAO": "",
+      "observacao": ""
+    },
+    {
+      "CODIGO_DE": "1072",
+      "NOME_DE": "SINDICATO DOS PRATICOS DE FARMACIA E DOS EMPREGADOS NO COMERCIO DE DROGAS MEDICAMENTOS E PRODUTOS FARMACEUTICOS DE",
+      "CNPJ": "62653431000104",
+      "CODIGO_PARA": "002",
+      "rowNum": 2,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "codigoPara": "002",
+      "OBSERVACAO": "",
+      "observacao": ""
+    },
+    {
+      "CODIGO_DE": "1083",
+      "NOME_DE": "SINDICATO DOS FARMACEUTICOS NO ESTADO DE SAO PAULO",
+      "CNPJ": "62448543000123",
+      "CODIGO_PARA": "003",
+      "rowNum": 3,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "codigoPara": "003",
+      "OBSERVACAO": "",
+      "observacao": ""
     }
   ],
   "ZDEPARA_SECOES": [
@@ -1278,7 +2038,12 @@
       "COLIGADA_PARA": "1",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 1,
+      "coligadaPara": "1",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1288,7 +2053,12 @@
       "COLIGADA_PARA": "2",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 2,
+      "coligadaPara": "2",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1298,7 +2068,12 @@
       "COLIGADA_PARA": "2",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 3,
+      "coligadaPara": "2",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1308,7 +2083,12 @@
       "COLIGADA_PARA": "2",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 4,
+      "coligadaPara": "2",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1318,7 +2098,12 @@
       "COLIGADA_PARA": "2",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 5,
+      "coligadaPara": "2",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "4",
@@ -1328,7 +2113,12 @@
       "COLIGADA_PARA": "2",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 6,
+      "coligadaPara": "2",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1338,7 +2128,12 @@
       "COLIGADA_PARA": "4",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 7,
+      "coligadaPara": "4",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1348,7 +2143,12 @@
       "COLIGADA_PARA": "4",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 8,
+      "coligadaPara": "4",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1358,7 +2158,12 @@
       "COLIGADA_PARA": "4",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 9,
+      "coligadaPara": "4",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "EMPRESA_DE": "6",
@@ -1368,38 +2173,29 @@
       "COLIGADA_PARA": "4",
       "FILIAL_PARA": "",
       "CODIGO_PARA": "",
-      "DESCRICAO_SECAO_PARA": ""
+      "DESCRICAO_SECAO_PARA": "",
+      "rowNum": 10,
+      "coligadaPara": "4",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     }
   ],
-  "ZDEPARA_SINDICATOS": [
-    {
-      "CODIGO_DE": "3",
-      "NOME_DE": "SINDICATO DOS PROFESSORES DE SAO PAULO - CONVENCOES EDUCACAO BASICA",
-      "CNPJ": "50270172000153",
-      "CODIGO_PARA": "001"
-    },
-    {
-      "CODIGO_DE": "1072",
-      "NOME_DE": "SINDICATO DOS PRATICOS DE FARMACIA E DOS EMPREGADOS NO COMERCIO DE DROGAS MEDICAMENTOS E PRODUTOS FARMACEUTICOS DE",
-      "CNPJ": "62653431000104",
-      "CODIGO_PARA": "002"
-    },
-    {
-      "CODIGO_DE": "1083",
-      "NOME_DE": "SINDICATO DOS FARMACEUTICOS NO ESTADO DE SAO PAULO",
-      "CNPJ": "62448543000123",
-      "CODIGO_PARA": "003"
-    }
-  ],
-  "ZDEPARA_BANCOS": [],
   "ZDEPARA_SITUACAO": [
     {
       "CODIGO_DE": "4",
       "NOME_DE": "Serviço militar",
       "CODSITUACAO_PARA": "M",
       "CODMOTIVO_PARA": "32",
-      "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "38"
+      "CODSITUACAO_RETORNO_PARA": "A",
+      "CODMOTIVO_RETORNO_PARA": "38",
+      "rowNum": 1,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "CODIGO_DE": "5",
@@ -1407,47 +2203,90 @@
       "CODSITUACAO_PARA": "E",
       "CODMOTIVO_PARA": "09",
       "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "09"
+      "CODMOTIVO_RETORNO_PARA": "09",
+      "rowNum": 2,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "CODIGO_DE": "6",
       "NOME_DE": "Doença período superior a 15 dias",
       "CODSITUACAO_PARA": "O",
       "CODMOTIVO_PARA": "40",
-      "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "38"
+      "CODSITUACAO_RETORNO_PARA": "A",
+      "CODMOTIVO_RETORNO_PARA": "38",
+      "rowNum": 3,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "CODIGO_DE": "9",
       "NOME_DE": "Férias",
       "CODSITUACAO_PARA": "F",
       "CODMOTIVO_PARA": "03",
-      "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "04"
+      "CODSITUACAO_RETORNO_PARA": "A",
+      "CODMOTIVO_RETORNO_PARA": "04",
+      "rowNum": 4,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "CODIGO_DE": "12",
       "NOME_DE": "Novo afast. mesma doença",
       "CODSITUACAO_PARA": "O",
       "CODMOTIVO_PARA": "37",
-      "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "38"
+      "CODSITUACAO_RETORNO_PARA": "A",
+      "CODMOTIVO_RETORNO_PARA": "38",
+      "rowNum": 5,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "CODIGO_DE": "18",
       "NOME_DE": "Doença período igual ou inferior a 15 dias",
       "CODSITUACAO_PARA": "O",
       "CODMOTIVO_PARA": "39",
-      "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "38"
+      "CODSITUACAO_RETORNO_PARA": "A",
+      "CODMOTIVO_RETORNO_PARA": "38",
+      "rowNum": 6,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     },
     {
       "CODIGO_DE": "39",
       "NOME_DE": "Ausência justificada",
       "CODSITUACAO_PARA": "O",
       "CODMOTIVO_PARA": "39",
-      "CODSITUACAO_RETORNO_PARA": "",
-      "CODMOTIVO_RETORNO_PARA": "38"
+      "CODSITUACAO_RETORNO_PARA": "A",
+      "CODMOTIVO_RETORNO_PARA": "38",
+      "rowNum": 7,
+      "COLIGADA_PARA": "1",
+      "coligadaPara": "1",
+      "CODIGO_PARA": "",
+      "codigoPara": "",
+      "OBSERVACAO": "",
+      "observacao": ""
     }
-  ]
+  ],
+  "ZDEPARA_BANCOS": []
 }
