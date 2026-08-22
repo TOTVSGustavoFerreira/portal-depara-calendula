@@ -3892,7 +3892,7 @@
       "NOME_DE": "DEDUCAO BASE INSS FERIAS",
       "TIPO_EVENTO": "BASE DE CALCULO",
       "COLIGADA_PARA": "1",
-      "CODIGO_PARA": "",
+      "CODIGO_PARA": "NAO IMPORTAR",
       "NOME_RM": "",
       "CODIGO_PARA_FICHA_MES1": "",
       "CODIGO_PARA_FICHA_MES2": "",
@@ -3908,7 +3908,7 @@
       "nomeDe": "DEDUCAO BASE INSS FERIAS",
       "tipoEvento": "BASE DE CALCULO",
       "coligadaPara": "1",
-      "codigoPara": "",
+      "codigoPara": "NAO IMPORTAR",
       "codigoParaFichaMes1": "",
       "codigoParaFichaMes2": "",
       "codigoParaVerbasFerias": "",
@@ -3927,7 +3927,7 @@
       "NOME_DE": "DEDUCAO BASE INSS FERIAS",
       "TIPO_EVENTO": "BASE DE CALCULO",
       "COLIGADA_PARA": "2",
-      "CODIGO_PARA": "",
+      "CODIGO_PARA": "NAO IMPORTAR",
       "NOME_RM": "",
       "CODIGO_PARA_FICHA_MES1": "",
       "CODIGO_PARA_FICHA_MES2": "",
@@ -3943,7 +3943,7 @@
       "nomeDe": "DEDUCAO BASE INSS FERIAS",
       "tipoEvento": "BASE DE CALCULO",
       "coligadaPara": "2",
-      "codigoPara": "",
+      "codigoPara": "NAO IMPORTAR",
       "codigoParaFichaMes1": "",
       "codigoParaFichaMes2": "",
       "codigoParaVerbasFerias": "",
@@ -3962,7 +3962,7 @@
       "NOME_DE": "DEDUCAO BASE INSS FERIAS",
       "TIPO_EVENTO": "BASE DE CALCULO",
       "COLIGADA_PARA": "3",
-      "CODIGO_PARA": "",
+      "CODIGO_PARA": "NAO IMPORTAR",
       "NOME_RM": "",
       "CODIGO_PARA_FICHA_MES1": "",
       "CODIGO_PARA_FICHA_MES2": "",
@@ -3978,7 +3978,7 @@
       "nomeDe": "DEDUCAO BASE INSS FERIAS",
       "tipoEvento": "BASE DE CALCULO",
       "coligadaPara": "3",
-      "codigoPara": "",
+      "codigoPara": "NAO IMPORTAR",
       "codigoParaFichaMes1": "",
       "codigoParaFichaMes2": "",
       "codigoParaVerbasFerias": "",
@@ -3997,7 +3997,7 @@
       "NOME_DE": "DEDUCAO BASE INSS FERIAS",
       "TIPO_EVENTO": "BASE DE CALCULO",
       "COLIGADA_PARA": "4",
-      "CODIGO_PARA": "",
+      "CODIGO_PARA": "NAO IMPORTAR",
       "NOME_RM": "",
       "CODIGO_PARA_FICHA_MES1": "",
       "CODIGO_PARA_FICHA_MES2": "",
@@ -4013,7 +4013,7 @@
       "nomeDe": "DEDUCAO BASE INSS FERIAS",
       "tipoEvento": "BASE DE CALCULO",
       "coligadaPara": "4",
-      "codigoPara": "",
+      "codigoPara": "NAO IMPORTAR",
       "codigoParaFichaMes1": "",
       "codigoParaFichaMes2": "",
       "codigoParaVerbasFerias": "",
@@ -12911,9 +12911,9 @@
       "SUGESTOES": "",
       "sugestoes": "",
       "nomeRm": "BASE DE CALCULO INSS 13º SALARIO",
-      "hasDivergencia": true,
+      "hasDivergencia": false,
       "hasDivergenciaDuplicidade": false,
-      "hasDivergenciaTipo": true
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 370,
@@ -12946,9 +12946,9 @@
       "SUGESTOES": "",
       "sugestoes": "",
       "nomeRm": "BASE DE CALCULO INSS 13º SALARIO",
-      "hasDivergencia": true,
+      "hasDivergencia": false,
       "hasDivergenciaDuplicidade": false,
-      "hasDivergenciaTipo": true
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 371,
@@ -12981,9 +12981,9 @@
       "SUGESTOES": "",
       "sugestoes": "",
       "nomeRm": "BASE DE CALCULO INSS 13º SALARIO",
-      "hasDivergencia": true,
+      "hasDivergencia": false,
       "hasDivergenciaDuplicidade": false,
-      "hasDivergenciaTipo": true
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 372,
@@ -13016,9 +13016,9 @@
       "SUGESTOES": "",
       "sugestoes": "",
       "nomeRm": "BASE DE CALCULO INSS 13º SALARIO",
-      "hasDivergencia": true,
+      "hasDivergencia": false,
       "hasDivergenciaDuplicidade": false,
-      "hasDivergenciaTipo": true
+      "hasDivergenciaTipo": false
     },
     {
       "rowNum": 373,
